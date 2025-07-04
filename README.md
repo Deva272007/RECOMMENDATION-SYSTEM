@@ -58,3 +58,5 @@ This function is demonstrated for user_id=10, producing a list of 5 recommended 
 
 *OUTPUT*=
 
+![Image](https://github.com/user-attachments/assets/50a1a399-ea75-46fc-a7d5-d3d574bafbbd)
+
